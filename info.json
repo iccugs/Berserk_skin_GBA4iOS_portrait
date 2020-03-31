@@ -1,0 +1,114 @@
+{
+    "name": "Berserk",
+    "debug": false,
+    "portrait": {
+        "assets": {
+            "iPhone": "portrait.png"
+        },
+        "layouts": {
+            "iPhone": {
+                "dpad": {
+                    "x": 10,
+                    "y": 67,
+                    "width": 112,
+                    "height": 112,
+                    "extendedEdges": {
+                        "top": 15,
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 15
+                    }
+                },
+                "a": {
+                    "x": 267,
+                    "y": 94,
+                    "width": 43,
+                    "height": 43,
+                    "extendedEdges": {
+                        "top": 15,
+                        "bottom": 15,
+                        "left": 18,
+                        "right": 15
+                    }
+                },
+                "b": {
+                    "x": 190,
+                    "y": 126,
+                    "width": 43,
+                    "height": 43,
+                    "extendedEdges": {
+                        "top": 15,
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 16
+                    }
+                },
+                "start": {
+                    "x": 172,
+                    "y": 211,
+                    "width": 25,
+                    "height": 25,
+                    "extendedEdges": {
+                        "left": 12,
+                        "right": 12
+                    }
+                },
+                "select": {
+                    "x": 124,
+                    "y": 211,
+                    "width": 25,
+                    "height": 25,
+                    "extendedEdges": {
+                        "left": 12,
+                        "right": 11
+                    }
+                },
+                "l": {
+                    "x": 0,
+                    "y": 5,
+                    "width": 75,
+                    "height": 19,
+                    "extendedEdges": {
+                        "top": 15,
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 15
+                    }
+                },
+                "r": {
+                    "x": 245,
+                    "y": 5,
+                    "width": 75,
+                    "height": 19,
+                    "extendedEdges": {
+                        "top": 15,
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 15
+                    }
+                },
+                "menu": {
+                    "x": 6,
+                    "y": 213,
+                    "width": 30,
+                    "height": 21,
+                    "extendedEdges": {
+                        "top": 11,
+                        "right": 16
+                    }
+                },
+                "extendedEdges": {
+                    "top": 7,
+                    "bottom": 7,
+                    "left": 7,
+                    "right": 7
+                }
+            }
+
+        },
+        "translucent": false
+    },
+
+    "identifier": "com.Paradox.Berserk",
+    "type": 0
+}
