@@ -1,0 +1,218 @@
+{
+	"name": "Berserk",
+	"debug": false,
+	"portrait": {
+		"assets": {
+			"iPhone": "portrait@2x.png"
+		},
+		"layouts": {
+			"iPhone": {
+				"dpad": {
+					"x": 26,
+					"y": 357,
+					"width": 164,
+					"height": 164,
+					"extendedEdges": {
+						"left": 15,
+						"right": 15,
+						"top": 15,
+						"bottom": 15
+					}
+				},
+				"a": {
+					"x": 283,
+					"y": 405,
+					"width": 71,
+					"height": 71,
+					"extendedEdges": {
+						"right": 15
+					}
+				},
+				"b": {
+					"x": 208,
+					"y": 457,
+					"width": 75,
+					"height": 76,
+					"extendedEdges": {
+						"bottom": 15
+					}
+				},
+				"start": {
+					"x": 209,
+					"y": 601,
+					"width": 53,
+					"height": 66,
+					"extendedEdges": {
+						"left": 10,
+						"right": 15,
+						"top": 5,
+						"bottom": 15
+					}
+				},
+				"select": {
+					"x": 115,
+					"y": 601,
+					"width": 53,
+					"height": 66,
+					"extendedEdges": {
+						"left": 15,
+						"right": 10,
+						"top": 5,
+						"bottom": 15
+					}
+				},
+				"l": {
+					"x": 10,
+					"y": 257,
+					"width": 120,
+					"height": 55,
+					"extendedEdges": {
+						"left": 15,
+						"right": 5,
+						"top": 5,
+						"bottom": 5
+					}
+				},
+				"r": {
+					"x": 242,
+					"y": 257,
+					"width": 120,
+					"height": 55,
+					"extendedEdges": {
+						"left": 5,
+						"right": 15,
+						"top": 5,
+						"bottom": 5
+					}
+				},
+				"menu": {
+					"x": 0,
+					"y": 605,
+					"width": 80,
+					"height": 62,
+					"extendedEdges": {
+						"left": 15,
+						"right": 5,
+						"top": 5,
+						"bottom": 15
+					}
+				},
+				"screen": {
+					"x": 0,
+					"y": 0,
+					"width": 375,
+					"height": 250
+				}
+			}
+		},
+		"translucent": false
+	},
+	"landscape": {
+		"assets": {
+			"iPhone Widescreen": "landscape@R4.png"
+		},
+		"layouts": {
+			"iPhone Widescreen": {
+				"dpad": {
+					"x": 0,
+					"y": 133,
+					"width": 138,
+					"height": 138,
+					"extendedEdges": {
+						"left": 15,
+						"right": 15,
+						"top": 15,
+						"bottom": 15
+					}
+				},
+				"a": {
+					"x": 496,
+					"y": 202,
+					"width": 72,
+					"height": 72,
+					"extendedEdges": {
+						"right": 15
+					}
+				},
+				"b": {
+					"x": 420,
+					"y": 241,
+					"width": 76,
+					"height": 76,
+					"extendedEdges": {
+						"bottom": 15
+					}
+				},
+				"start": {
+					"x": 305,
+					"y": 258,
+					"width": 62,
+					"height": 124,
+					"extendedEdges": {
+						"left": 15,
+						"right": 15,
+						"top": 5,
+						"bottom": 15
+					}
+				},
+				"select": {
+					"x": 200,
+					"y": 258,
+					"width": 62,
+					"height": 124,
+					"extendedEdges": {
+						"left": 15,
+						"right": 15,
+						"top": 5,
+						"bottom": 15
+					}
+				},
+				"l": {
+					"x": 22,
+					"y": 60,
+					"width": 95,
+					"height": 42,
+					"extendedEdges": {
+						"left": 25,
+						"right": 25,
+						"top": 15,
+						"bottom": 5
+					}
+				},
+				"r": {
+					"x": 451,
+					"y": 60,
+					"width": 95,
+					"height": 42,
+					"extendedEdges": {
+						"left": 25,
+						"right": 25,
+						"top": 15,
+						"bottom": 5
+					}
+				},
+				"menu": {
+					"x": 240,
+					"y": 0,
+					"width": 88,
+					"height": 63,
+					"extendedEdges": {
+						"left": 5,
+						"right": 5,
+						"top": 15,
+						"bottom": 5
+					}
+				},
+				"screen": {
+					"x": 139,
+					"y": 63,
+					"width": 290,
+					"height": 193
+				}
+			}
+		},
+		"translucent": false
+	},
+	"identifier": "com.Paradox.Berserk",
+	"type": 0
+}
